@@ -3,3 +3,4 @@ server:
 
 eureka:
   client: 
+    server: 
